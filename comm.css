@@ -1,0 +1,25 @@
+header{    
+    text-align: center;
+    
+}
+.border-box {
+    width: 600px;
+    height: 100px;
+    border: 2px solid black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: border 0.3s ease;
+}
+
+.border-box2 {
+    width: 600px;
+    height: 300px;
+    border: 2px solid black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: border 0.3s ease;
+}
